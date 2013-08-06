@@ -1,0 +1,19 @@
+@import "normalize";
+@import "mixins";
+/*
+Theme Name: CW
+Theme URI: http://crane-west.com/
+Author: Crane | West
+Author URI: http://crane-west.com/
+Description: blank theme for customizing
+Version: 1
+License:
+License URI:
+Tags:
+*/
+* {
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+	*behavior: url(/wp-content/themes/cw/js/boxsizing.htc);
+}
