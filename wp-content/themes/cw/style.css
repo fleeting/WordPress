@@ -1,19 +1,11 @@
-@import "normalize";
-@import "mixins";
 /*
-Theme Name: CW
-Theme URI: http://crane-west.com/
-Author: Crane | West
+Theme Name: CWboilerplate
+Theme URI: https://github.com/crane-west/
+Author: CRANE | WEST
 Author URI: http://crane-west.com/
-Description: blank theme for customizing
+Description: Default starter theme for CRANE | WEST. Contains the basic loops and functions needed to get started along with our typical structure and starting points. Includes Foundation, jQuery, normalize, and a handy set of mixins.
 Version: 1
-License:
+License: MIT
 License URI:
 Tags:
 */
-* {
-	-moz-box-sizing: border-box;
-	-webkit-box-sizing: border-box;
-	box-sizing: border-box;
-	*behavior: url(/wp-content/themes/cw/js/boxsizing.htc);
-}

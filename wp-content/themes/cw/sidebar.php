@@ -6,6 +6,6 @@
  */
 ?>
 
-		<div id="secondary" class="widget-area" role="complementary">
-
-		</div><!-- #secondary -->
+	<aside class="widget-area" role="complementary">
+		<?php get_search_form( true ); ?>
+	</aside>
