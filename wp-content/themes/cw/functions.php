@@ -230,18 +230,18 @@ add_action('admin_menu', 'cw_remove_admin_menu_items');
  * @since CW 1.0
  */
 
-include_once 'functions/cpp-slideshow.php';
+include_once 'functions/cpt-slideshow.php';
 
 /*
  TODO(HIGH): Add Custom Post Types for alerts, directory, staff, faq, links, news, promos, services, and testimonials.
  */
 
-// include_once 'functions/cpp-alerts.php';
-// include_once 'functions/cpp-directory.php';
-// include_once 'functions/cpp-staff.php';
-// include_once 'functions/cpp-faq.php';
-// include_once 'functions/cpp-links.php';
-// include_once 'functions/cpp-news.php';
-// include_once 'functions/cpp-promos.php';
-// include_once 'functions/cpp-services.php';
-// include_once 'functions/cpp-testimonials.php';
+// include_once 'functions/cpt-alerts.php';
+// include_once 'functions/cpt-directory.php';
+// include_once 'functions/cpt-staff.php';
+// include_once 'functions/cpt-faq.php';
+// include_once 'functions/cpt-links.php';
+// include_once 'functions/cpt-news.php';
+// include_once 'functions/cpt-promos.php';
+// include_once 'functions/cpt-services.php';
+// include_once 'functions/cpt-testimonials.php';
